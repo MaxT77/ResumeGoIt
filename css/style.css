@@ -1,0 +1,113 @@
+body {
+    font-family: "Montserrat" , sans-serif;
+    background-color: #F5F7FA;
+}
+
+.main_container{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+}
+
+.about_me_profession {
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+}
+
+.main_content_section{
+
+}
+
+.about_me_section {
+
+}
+
+.my_project_section {
+
+}
+ .work_experience_section {
+
+ }
+
+ .education_section {
+
+ }
+ .sidebar_container {
+     background-color: #1E2939;
+     width: 370px;
+     padding: 40px 0;
+     margin-top: 12px;
+
+ }
+
+ .contacts_section_title {
+     margin: 50px 0 0 40px;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 22px;
+     line-height: 27px;
+     color: white;
+ }
+
+
+
+
+
+
+
+ .contacts_section {
+     margin: 10px 0 0 40px;
+
+ }
+
+
+ .contacts_section_type {
+     font-weight: bold;
+     font-size: 14px;
+     line-height: 24px;
+     color: white;
+     margin-right:   5px;
+ }
+
+ .contacts_section_link {
+     color: #565E6A;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 14px;
+     line-height: 24px;
+ }
+
+.skill_section{
+    margin: 10px 0 0 40px;
+    padding: 0 0 0 17px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: white;
+
+}
+
+.skill_section_title {
+    margin: 50px 0 0 40px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+}
+
+ .skill_section_list {
+     color: #FB6D3A;
+ }
+ .skill_name {
+     font-size: 14px;
+     font-weight: normal;
+     font-style: normal;
+     line-height: 24px;
+     color: white;
+
+ }
