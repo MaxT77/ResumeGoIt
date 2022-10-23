@@ -13,66 +13,66 @@
         <!--About me section-->
         <div class="about_me_section">
             <h2 class="about_me_profession">Java-junior</h2>
-            <h1>Timofeev Maxim</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+            <h1 class="my_name">Timofeev Maxim</h1>
+            <p class="about_me_description_first">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
         </div>
 
         <!--My Project section-->
         <div class="my_project_section">
-            <h3>Projects</h3>
-            <ol>
-                <li class="project_item_first">
-                    <a href="https://github.com/MaxT99/Department">FinalDepartments</a>
-                    <span>..........</span>
-                    <span>[Servlets, JSP, MySQL, HTML]</span>
+            <h3 class="main_content_title">Projects</h3>
+            <ol class="my_projects_list">
+                <li class="my_project_item">
+                    <span class="my_project_text"><a href="https://github.com/MaxT99/Department" class="my_project_link">FinalDepartments</a>
+                    ..........
+                    <span class="my_project_bracket">[</span>Servlets, JSP, MySQL, HTML<span class="my_project_bracket">]</span></span>
                 </li>
-                <li>
-                    <a href="https://github.com/MaxT77/HiberDepartment">HiberDepartment</a>
-                    <span>..........</span>
-                    <span>[Servlets, JSP, Hibernate, HTML]</span>
+                <li class="my_project_item">
+                    <span class="my_project_text"><a href="https://github.com/MaxT77/HiberDepartment" class="my_project_link">HiberDepartment</a>
+                    ...........
+                    <span class="my_project_bracket">[</span>Servlets, JSP, Hibernate, HTML<span class="my_project_bracket">]</span></span>
                 </li>
-                <li>
-                    <a href="https://github.com/MaxT77/Departments">Department</a>
-                    <span>...................</span>
-                    <span>[Servlets, JSP, MySQL, HTML]</span>
+                <li class="my_project_item">
+                    <span class="my_project_text"><a href="https://github.com/MaxT77/Departments" class="my_project_link">Department</a>
+                    ...................
+                    <span class="my_project_bracket">[</span>Servlets, JSP, MySQL, HTML<span class="my_project_bracket">]</span></span>
                 </li>
             </ol>
         </div>
 
         <!--My work experience -->
         <div class="work_experience_section">
-            <h3>Work Experience</h3>
+            <h3 class="main_content_title">Work Experience</h3>
 
             <!--Company 3-->
             <div>
                     <div>
-                        <h4>Front-End Developer Freelance</h4>
-                        <p>September 2019 - up to now   |   Country</p>
-                            <ul>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Risus commodo viverra maecenas.
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
+                        <h4 class="my_work_exp_company_firstname">Front-End Developer <span class="my_work_exp_company">Freelance</span></h4>
+                        <p class="my_work_exp_company_data">September 2019 - up to now   |   Country</p>
+                            <ul class="about_me_description">
+                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                                <li>Risus commodo viverra maecenas.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</li>
                             </ul>
                     </div>
                     <!--Company 2-->
                     <div>
-                        <h4>Manager Roga & Kopyta New</h4>
-                        <p>March 2015 - October 2018   |   Country</p>
-                            <ul>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore et dolore magna aliqua.
-                                Quis ipsum suspendisse ultrices gravida.
-                                Risus commodo viverra maecenas.
+                        <h4 class="my_work_exp_company_firstname">Manager <span class="my_work_exp_company">Roga & Kopyta New</span></h4>
+                        <p class="my_work_exp_company_data">March 2015 - October 2018   |   Country</p>
+                            <ul class="about_me_description">
+                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore et dolore magna aliqua.</li>
+                                <li>Quis ipsum suspendisse ultrices gravida.</li>
+                                <li>Risus commodo viverra maecenas.</li>
                             </ul>
                     </div>
                     <!--Company 1-->
                     <div>
-                        <h4>Manager Roga & Kopyta LLC</h4>
-                        <p>June 2014 - February 2015   |   Country</p>
-                            <ul>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Quis ipsum suspendisse ultrices gravida.
-                                Risus commodo viverra maecenas.
+                        <h4 class="my_work_exp_company_firstname">Manager <span class="my_work_exp_company">Roga & Kopyta LLC</span></h4>
+                        <p class="my_work_exp_company_data">June 2014 - February 2015   |   Country</p>
+                            <ul class="about_me_description">
+                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                                <li>Quis ipsum suspendisse ultrices gravida.</li>
+                                <li>Risus commodo viverra maecenas.</li>
                             </ul>
                     </div>
             </div>
@@ -80,11 +80,11 @@
         <!--Education-->
         <div class="education_section">
 
-                <h3>Education</h3>
+                <h3 class="main_content_title">Education</h3>
 
-                <p>Kharkov Avto-Dorojniy University</p>
-                <p>Economist</p>
-                <p>September 1998- June 2003 | Country</p>
+                <p class="my_work_exp_company">Kharkov Avto-Dorojniy University</p>
+                <p class="my_work_exp_company_ec">Economist</p>
+                <p class="my_work_exp_company_data">September 1998- June 2003 | Country</p>
         </div>
     </div>
     <!--Sidebar section-->
