@@ -47,7 +47,7 @@
             <div>
                     <div>
                         <h4 class="my_work_exp_company_firstname">Front-End Developer <span class="my_work_exp_company">Freelance</span></h4>
-                        <p class="my_work_exp_company_data">September 2019 - up to now   |   Country</p>
+                        <p class="my_work_exp_company_data">April 2022 - up to now   |   Country</p>
                             <ul class="about_me_description">
                                 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
                                 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
@@ -57,8 +57,8 @@
                     </div>
                     <!--Company 2-->
                     <div>
-                        <h4 class="my_work_exp_company_firstname">Manager <span class="my_work_exp_company">Roga & Kopyta New</span></h4>
-                        <p class="my_work_exp_company_data">March 2015 - October 2018   |   Country</p>
+                        <h4 class="my_work_exp_company_firstname">Director <span class="my_work_exp_company">SPDFL "Timofeev M.A.</span></h4>
+                        <p class="my_work_exp_company_data">June 2012 - March 2022   |   Country</p>
                             <ul class="about_me_description">
                                 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore et dolore magna aliqua.</li>
                                 <li>Quis ipsum suspendisse ultrices gravida.</li>
@@ -67,8 +67,8 @@
                     </div>
                     <!--Company 1-->
                     <div>
-                        <h4 class="my_work_exp_company_firstname">Manager <span class="my_work_exp_company">Roga & Kopyta LLC</span></h4>
-                        <p class="my_work_exp_company_data">June 2014 - February 2015   |   Country</p>
+                        <h4 class="my_work_exp_company_firstname">Manager <span class="my_work_exp_company">OOO Nikiforov Factory</span></h4>
+                        <p class="my_work_exp_company_data">June 2009 - February 2012   |   Country</p>
                             <ul class="about_me_description">
                                 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
                                 <li>Quis ipsum suspendisse ultrices gravida.</li>
